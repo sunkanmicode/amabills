@@ -22,7 +22,7 @@ const Feeds = () => {
         <div className="feed2">
           <div className="feedsBody">
             <div className="feedsBodyTitle">
-              <img src="/assets/img2.png" alt="" className="topAvatar" />
+              <img src="/assets/img2.png" alt="img2" className="topAvatar" />
               <p className="topAvatar-p">Moses Olaniye</p>
             </div>
             <p>Tue 24th May 2022 04:01:22</p>
@@ -35,7 +35,7 @@ const Feeds = () => {
           </p>
           <div className="feedsBody">
             <div className="feedsBodyTitle">
-              <img src="/assets/img3.png" alt="" className="topAvatar" />
+              <img src="/assets/img3.png" alt="img3" className="topAvatar" />
               <p className="topAvatar-p">Moses Olaniye</p>
             </div>
             <p>Tue 24th May 2022 04:01:22</p>
@@ -48,7 +48,7 @@ const Feeds = () => {
           </p>
           <div className="feedsBody">
             <div className="feedsBodyTitle">
-              <img src="/assets/img2.png" alt="" className="topAvatar" />
+              <img src="/assets/img2.png" alt="img2" className="topAvatar" />
               <p className="topAvatar-p">Moses Olaniye</p>
             </div>
             <p>Tue 24th May 2022 04:01:22</p>
@@ -61,7 +61,7 @@ const Feeds = () => {
           </p>
           <div className="feedsBody">
             <div className="feedsBodyTitle">
-              <img src="/assets/img3.png" alt="" className="topAvatar" />
+              <img src="/assets/img3.png" alt="img3" className="topAvatar" />
               <p className="topAvatar-p">Moses Olaniye</p>
             </div>
             <p>Tue 24th May 2022 04:01:22</p>

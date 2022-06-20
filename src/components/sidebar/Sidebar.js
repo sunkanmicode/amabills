@@ -20,7 +20,7 @@ const Sidebar = () => {
         <div className="sidebarMenu">
           <div className="sidebar_logo">
             <div className="logo_img">
-              <img className="logo" src="/assets/logo1.png" />
+              <img className="logo" src="/assets/logo1.png" alt='logo'/>
             </div>
             <div className="logo_title">
               <p>360 Corporation</p>

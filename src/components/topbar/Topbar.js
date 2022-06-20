@@ -32,7 +32,7 @@ export const Topbar = () => {
           <div className="topbarIconContainer">{/* <Settings /> */}</div>
           <img
             src="/assets/profile.png"
-            alt=""
+            alt="profile"
             className="topAvatar"
           />
         </div>
